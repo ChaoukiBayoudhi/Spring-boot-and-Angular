@@ -1,0 +1,12 @@
+
+###@see #getToy
+GET {{host}}/toyByName/{name}
+
+
+
+###@see #getToy
+GET {{host}}/toy/{id}
+
+
+
+
